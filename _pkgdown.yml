@@ -1,4 +1,4 @@
-url: https://chloemirzayi.com/epiforbioworkshop2022
+url: https://chloemirzayi.com/epiforbioworkshop2023
 
 template:
   params:
@@ -6,13 +6,13 @@ template:
     #ganalytics: UA-99999999-9
 
 home:
-  title: "epiforbioworkshop2022"
+  title: "epiforbioworkshop2023"
   type: inverse
 
 
 navbar:
   right:
    - icon: fa-github
-     href: https://chloemirzayi.com/epiforbioworkshop2022
+     href: https://chloemirzayi.com/epiforbioworkshop2023
 
 
